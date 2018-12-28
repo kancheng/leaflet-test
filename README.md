@@ -3,9 +3,10 @@ Test leaflet &amp; Map
 
 詳見 index.html
 
-當中匯入 `leaflet.css` & `leaflet.js` 。
+當中匯入 `leaflet.css` & `leaflet.js` ，使用 OpenStreetMap。
 
 ## Demo
+
 https://codemercs.github.io/page/leaflet-test/
 
 
