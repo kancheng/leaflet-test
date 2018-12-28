@@ -3,6 +3,22 @@ Test leaflet &amp; Map
 
 詳見 index.html
 
+當中匯入 `leaflet.css` & `leaflet.js` 。
+
+## CSS
+
+```
+<link rel="stylesheet" href="leaflet.css" crossorigin=""/>
+```
+
+## JS
+
+```
+<script src="leaflet.js" crossorigin=""></script>
+```
+
+## index.html
+
 ```
 <!DOCTYPE html>
 <html>
